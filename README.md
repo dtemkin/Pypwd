@@ -12,3 +12,5 @@ Those optional values make the resulting pass much stronger, but even without th
 For more information, read the source code and the docstrings.
 
 Feedback is welcome and appreciated, hope you find it useful.
+
+PS: Pypwd requires pycrypto.
