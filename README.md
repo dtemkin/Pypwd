@@ -11,4 +11,4 @@ Those optional values make the resulting pass much stronger, but even without th
 
 For more information, read the source code and the docstrings.
 
-Hope you find it useful.
+Feedback is welcome and appreciated, hope you find it useful.
